@@ -1,0 +1,24 @@
+#about h1 {
+    color: #4e4232;
+}
+
+#email {
+    font-size: 45px;
+    color: #ff4141;
+}
+
+#email:hover {
+    color: #71bfec;
+}
+
+.icons {
+    font-size: 60px;
+}
+
+.icons a {
+    color: #888888;
+}
+
+.icons a:hover {
+    color: #71bfec;
+}
