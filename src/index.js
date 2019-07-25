@@ -1,8 +1,17 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './css/style.css';
-import './css/about.css';
+
 import App from './App';
+
+import './css/app.css';
+import './css/about.css';
+import './css/experience.css';
+import './css/education.css';
+import './css/skills.css';
+import './css/interests.css';
+import './css/accomplishments.css';
+import './css/topbar.css';
+
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(<App />, document.getElementById('root'));

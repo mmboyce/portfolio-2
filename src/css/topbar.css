@@ -1,0 +1,20 @@
+#topbar {
+    position:fixed;
+    top:0;
+    background-color: #ff4141;
+    padding: 20px;
+    width: 100%;
+}
+
+#topbar * {
+    margin: 1vw;
+}
+
+#topbar a {
+    color: #ffbfbf;
+}
+
+#topbar a:hover {
+    color: #ffffff;
+    text-decoration: none;
+}

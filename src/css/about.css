@@ -1,4 +1,16 @@
 #about h1 {
+    color: #ff4141;
+    text-transform: uppercase;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: normal;
+}
+
+#about .icons a {
+    margin: 0px 10px 0px 6px;
+    padding: 0px 5px 0px 5px;
+}
+
+#first {
     color: #4e4232;
 }
 
@@ -8,11 +20,13 @@
 }
 
 #email:hover {
-    color: #71bfec;
+    color: #8d2727;
 }
 
 .icons {
     font-size: 60px;
+    padding: 3px;
+    margin: 3px;
 }
 
 .icons a {
@@ -20,5 +34,5 @@
 }
 
 .icons a:hover {
-    color: #71bfec;
+    color: #ff4141;
 }

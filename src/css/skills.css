@@ -1,0 +1,21 @@
+.languages #language-child {
+    font-size: 45px;
+    color: #888888;
+    margin: 6px;
+}
+
+.languages #language-child:hover{
+    color: #71bfec;
+}
+
+#terminal {
+    background-color: #888888;
+    color: #fffff9;
+    font-size: 30px;
+    margin: 6px;
+    padding: 5px;
+}
+
+#terminal:hover {
+    background-color: #71bfec;
+}
