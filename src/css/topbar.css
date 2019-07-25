@@ -2,7 +2,7 @@
     position:fixed;
     top:0;
     background-color: #ff4141;
-    padding: 20px;
+    padding: 1em;
     width: 100%;
 }
 
@@ -15,6 +15,6 @@
 }
 
 #topbar a:hover {
-    color: #ffffff;
+    color: #fffff9;
     text-decoration: none;
 }
