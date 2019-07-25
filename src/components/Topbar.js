@@ -11,12 +11,12 @@ class Topbar extends React.Component {
         return(
             <div id="topbar">
                 <FontAwesomeIcon icon="bars" />
-                <a href="#about-link">About</a>
-                <a href="#experience-link">Experience</a>
-                <a href="#skills-link">Skills</a>
-                <a href="#education-link">Education</a>
-                <a href="#interests-link">Interests</a>
-                <a href="#accomplishments-link">Accomplishments</a>
+                <a href="#about">About</a>
+                <a href="#experience">Experience</a>
+                <a href="#skills">Skills</a>
+                <a href="#education">Education</a>
+                <a href="#interests">Interests</a>
+                <a href="#accomplishments">Accomplishments</a>
             </div>
         );
     }
