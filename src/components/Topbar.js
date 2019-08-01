@@ -16,7 +16,6 @@ class Topbar extends React.Component {
                 <a href="#skills">Skills</a>
                 <a href="#education">Education</a>
                 <a href="#interests">Interests</a>
-                <a href="#accomplishments">Accomplishments</a>
             </div>
         );
     }

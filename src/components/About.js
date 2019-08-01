@@ -4,15 +4,15 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { fab } from '@fortawesome/free-brands-svg-icons';
 import { faEnvelope } from '@fortawesome/free-solid-svg-icons';
 
-library.add(fab, faEnvelope);
-const me = require('../images/me.jpg');
+import Me from './Me';
 
+library.add(fab, faEnvelope);
 
 class About extends React.Component{
     render(){
         return (
             <div id="about" class="section">
-                <img id="me" src={me} alt=""/>
+                <Me />
                 <h1><span id="first">W Mathieu</span> Mimms-Boyce</h1>
                 <a href="mailto:mathieumimmsboyce@gmail.com">
                     <FontAwesomeIcon id="email" icon="envelope"/>

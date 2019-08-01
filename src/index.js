@@ -9,7 +9,6 @@ import './css/experience.css';
 import './css/education.css';
 import './css/skills.css';
 import './css/interests.css';
-import './css/accomplishments.css';
 import './css/topbar.css';
 
 import * as serviceWorker from './serviceWorker';

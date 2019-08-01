@@ -1,6 +1,6 @@
 .languages #language-child {
     font-size: 45px;
-    color: #888888;
+    color: #e4e4e4;
     margin: 6px;
 }
 
@@ -9,8 +9,8 @@
 }
 
 #terminal {
-    background-color: #888888;
-    color: #fffff9;
+    background-color: #e4e4e4;
+    color: #ff4141;
     font-size: 30px;
     margin: 6px;
     padding: 5px;
@@ -18,4 +18,14 @@
 
 #terminal:hover {
     background-color: #71bfec;
+}
+
+#skills-box {
+    background-color: #ff4141;
+    padding: 10%;
+    box-shadow: 1em 1em #0000005e;
+}
+
+#skills-box h2, #skills-box h3 {
+    color: #423f3f;
 }

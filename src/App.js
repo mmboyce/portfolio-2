@@ -4,7 +4,6 @@ import Experience from './components/Experience';
 import Education from './components/Education';
 import Skills from './components/Skills';
 import Interests from './components/Interests';
-import Accomplishments from './components/Accomplishments';
 import Topbar from './components/Topbar';
 
 class App extends React.Component {
@@ -13,11 +12,12 @@ class App extends React.Component {
     <div>
       <Topbar />
       <About />
-      <Experience />
+      <div>
+        <Experience />
+      </div>
       <Education />
       <Skills />
       <Interests />
-      <Accomplishments />
     </div>
     );
   }

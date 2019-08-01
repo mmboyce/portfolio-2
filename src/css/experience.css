@@ -1,9 +1,19 @@
+#experience {
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+
 #projects {
     margin-top: 10em;
 }
 
 #professional h1, #projects h1 {
     font-size: 2.5em;
+}
+
+#projects div, #professional div {
+    box-shadow: 1em 1em #0000005e;
+    padding: 10%;
 }
 
 .job h2, .job h3,
@@ -22,4 +32,52 @@
 
 .project {
     margin-bottom: 5em;
+}
+
+#geoswap {
+    background-color: darkslategray;
+}
+
+#geoswap h4, #geoswap a {
+    color: coral;
+}
+
+#geoswap a:hover {
+    color: white;
+}
+
+#geoswap p {
+color: lightgray;
+}
+
+#estuary-escapade {
+    background-color: #6dbfe6;
+}
+
+#estuary-escapade h4, #estuary-escapade a {
+    color: #1944ff;
+}
+
+#estuary-escapade a:hover {
+    color: #142677;
+}
+
+#estuary-escapade p {
+    color: #49385a;
+}
+
+#grenzy {
+    background-color: #eea473;
+}
+
+#grenzy h4, #grenzy a {
+    color: #6d32b1;
+}
+
+#grenzy a:hover {
+    color: #382a47;
+}
+
+#grenzy p {
+    color: #413c3c;
 }
