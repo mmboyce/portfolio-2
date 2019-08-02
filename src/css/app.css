@@ -46,3 +46,14 @@ a:hover {
   color: #8d2727;
   text-decoration: underline;
 }
+
+@media only screen and (max-width: 600px) {
+  .section {
+    max-width: 100%;
+    margin-top: 2em;
+  }
+
+  .section h1 {
+    margin-left: 0.5em;
+  }
+}

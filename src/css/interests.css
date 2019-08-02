@@ -11,3 +11,15 @@
 #interests p {
     color: #dbdada;
 }
+
+@media only screen and (max-width: 600px) {
+    #interests-box {
+        box-shadow: none;
+        padding-top: 7em;
+        padding-bottom: 7em;
+    }
+
+    #interests {
+        margin-bottom: 0;
+    }
+}

@@ -29,3 +29,9 @@
 #skills-box h2, #skills-box h3 {
     color: #423f3f;
 }
+
+@media only screen and (max-width: 600px) {
+    #skills-box{
+        box-shadow: none;
+    } 
+}
