@@ -1,0 +1,13 @@
+#interests-box {
+    background-color: #616161;
+    padding: 10%;
+    box-shadow: 1em 1em #0000005e;
+}
+
+#interests {
+    margin-bottom: 10em;
+}
+
+#interests p {
+    color: #dbdada;
+}
