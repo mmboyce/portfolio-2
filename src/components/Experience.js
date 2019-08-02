@@ -11,7 +11,9 @@ class Experience extends React.Component {
                             <h2>Software Developer Intern</h2>
                             <h3>GeoSwap</h3>
                         </a>
-                        <p>Assisted deployment of targeted advertisements by developing a command line utility to read a spreadsheet and create ads based off the data in the excel file.</p><p>Additionally created a GUI to aid with use of the command line tool as well as being responsible for testing all code written.</p>
+                        <p>At GeoSwap, I developed a command line utility that deployed multiple targeted advertisements on Facebook's Audience Network in an instant.</p>
+                        <p>Additionally, I created a GUI for the utility for those at the company not familiar with the CLI.</p>
+                        <p>I created a wiki for the codebase so that the entire project would be sufficiently documented for future programmers. I also wrote all unit and integration tests for the tool.</p>
                         <h4>June 2018 - August 2018</h4>
                     </div>
                 </div>
