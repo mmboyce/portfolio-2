@@ -24,7 +24,7 @@
 }
 
 #email {
-    font-size: 45px;
+    font-size: 3.5em;
     color: #ff4141;
 }
 
@@ -44,4 +44,15 @@
 
 .icons a:hover {
     color: #ff4141;
+}
+
+@media only screen and (max-width: 600px) {
+  #about {
+      padding: 1em;
+  }
+
+  #about h1 {
+      font-weight: bold;
+      margin-left: inherit;
+  }
 }

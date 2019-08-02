@@ -18,3 +18,9 @@
 #ud h5 {
     color: #dadada;
 }
+
+@media only screen and (max-width: 600px) {
+    #education .school {
+        box-shadow: none;
+    }
+}

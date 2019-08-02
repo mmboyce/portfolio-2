@@ -47,7 +47,7 @@
 }
 
 #geoswap p {
-color: lightgray;
+    color: lightgray;
 }
 
 #estuary-escapade {
@@ -80,4 +80,26 @@ color: lightgray;
 
 #grenzy p {
     color: #203C66;
+}
+
+@media only screen and (max-width: 600px) {
+
+    #experience {
+        padding-bottom: 0;
+    }
+
+    #projects div, #professional div {
+        box-shadow: none;
+        padding: 5%;
+    }
+
+    div#projects, div#professional {
+        margin: 0;
+    }
+
+    .job, .project {
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+    
 }
