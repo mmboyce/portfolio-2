@@ -65,6 +65,7 @@
 
   @media only screen and (max-width: 600px) {
     .bm-burger-bars{
-      box-shadow: 0em 0em 0em 0.15em #fffff9;
+      box-shadow: 0em 0em 0em 0.15em #fffff9e0;
+      background: #ff4141e0;
     }
   }

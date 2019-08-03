@@ -22,5 +22,7 @@
 @media only screen and (max-width: 600px) {
     #education .school {
         box-shadow: none;
+        padding-left: 5%;
+        padding-right: 5%;
     }
 }
