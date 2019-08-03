@@ -15,8 +15,10 @@
 @media only screen and (max-width: 600px) {
     #interests-box {
         box-shadow: none;
-        padding-top: 7em;
-        padding-bottom: 7em;
+        padding-top: 5em;
+        padding-bottom: 5em;
+        padding-left: 5%;
+        padding-right:5%;
     }
 
     #interests {
