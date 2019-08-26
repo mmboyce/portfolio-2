@@ -10,6 +10,7 @@ import './css/education.css';
 import './css/skills.css';
 import './css/interests.css';
 import './css/sidebar.css';
+import './css/footer.css';
 
 import * as serviceWorker from './serviceWorker';
 

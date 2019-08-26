@@ -5,6 +5,7 @@ import Education from './components/Education';
 import Skills from './components/Skills';
 import Interests from './components/Interests';
 import Sidebar from './components/Sidebar';
+import Footer from './components/Footer';
 
 class App extends React.Component {
   render() {
@@ -21,6 +22,7 @@ class App extends React.Component {
         <Education />
         <Skills />
         <Interests />
+        <Footer />
       </div>
     </div>
     );
