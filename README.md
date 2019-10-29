@@ -1,4 +1,4 @@
-# mmboyce.github.io
+# [mmboyce.github.io](http://mmboyce.github.io)
 
 the master branch is created by a gh-pages deploy script, so looking here isn't too useful.
 
