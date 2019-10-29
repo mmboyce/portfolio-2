@@ -1,5 +1,4 @@
 # mmboyce.github.io
-personal portfolio
 
 the master branch is created by gh-pages, so looking here isn't too useful.
 
